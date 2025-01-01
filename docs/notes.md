@@ -1,4 +1,4 @@
-# AWTK 在树莓派 pico 上的移植笔记
+# AWTK 在 ESP 上的移植笔记
 
 ## 1. 配置文件 (awtk_config.h)
 
