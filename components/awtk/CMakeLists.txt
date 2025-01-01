@@ -1,6 +1,6 @@
 include(${CMAKE_CURRENT_LIST_DIR}/awtk/scripts/awtk_mobile_common.mk)
 
-set(AWTK_FLAGS " -DHAS_AWTK_CONFIG -w ")
+set(AWTK_FLAGS " -w ")
 set(CMAKE_C_FLAGS "${AWTK_FLAGS} ${CMAKE_C_FLAGS}")
 set(CMAKE_CXX_FLAGS "${AWTK_FLAGS} ${CMAKE_CXX_FLAGS}")
 
