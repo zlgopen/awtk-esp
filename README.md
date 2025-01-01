@@ -1,6 +1,8 @@
 # awtk-esp 
 
-[AWTK](https://github.com/zlgopen/awtk) 基于 [esp](https://docs.espressif.com/projects/esp-idf/zh_CN/stable/esp32/get-started/windows-setup.html#) 的移植
+[AWTK](https://github.com/zlgopen/awtk) 基于 [esp](https://docs.espressif.com/projects/esp-idf/zh_CN/stable/esp32/get-started/windows-setup.html#) 的移植。
+
+![](docs/images/esp1.jpeg)
 
 > 测试硬件平台为 [ESP32-S3-Touch-LCD-4.3](https://www.waveshare.net/wiki/ESP32-S3-Touch-LCD-4.3)，其它平台请根据实际平台自行调整。
 
