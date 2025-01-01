@@ -1,0 +1,17 @@
+dependencies:
+  espressif/esp_lcd_touch:
+    dependencies: []
+    source:
+      path: C:\Users\admin.DESKTOP-T5A2OCK\work\awtk-root\awtk-esp\components\espressif__esp_lcd_touch
+      type: local
+    version: 1.1.1
+  idf:
+    source:
+      type: idf
+    version: 5.3.2
+direct_dependencies:
+- espressif/esp_lcd_touch
+- idf
+manifest_hash: f59a4558734dce1077a3751a625a3b8768b572b47190a770ddb6325060d43897
+target: esp32s3
+version: 2.0.0

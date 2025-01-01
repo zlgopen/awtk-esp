@@ -1,0 +1,6 @@
+menu "AWTK GUI"
+    config HAS_AWTK_CONFIG
+        bool "has awtk_config.h"
+        default y
+
+endmenu
